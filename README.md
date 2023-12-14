@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Onur</h1>
 <h3 align="left">Software Developer</h3>
 I am an enthusiastic individual who is not content with what he knows, is open to learning and innovation learns through the creation of new projects. 
-In this context, I am constantly attempting to improve my knowledge by following international developments, new technologies, software languages
+In this context, I am constantly attempting to improve my knowledge by following international developments, new technologies, software languages.
 </br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
